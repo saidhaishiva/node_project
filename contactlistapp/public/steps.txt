@@ -1,0 +1,48 @@
+Step 1 Node Install
+Step 2 Contract list App
+step 3 server.js
+step 4 open server.js with the text editor
+step 5 open cmd or git bash
+step 6 navigate to contact folder
+step 7 npm to install express
+step 8 include express in server.js
+step 9 set up server for nodejs and check that node is running or not
+step 10 set up html template as index.html
+step 11 create a folder called public
+step 12 index.html
+step 13 angular from cdn
+step 14 include in index.html
+step 15 edit angular
+step 16 setup bootstrap in index.html
+step 17 load whether bootstrap is working or not
+step 18 table and add html for app
+step 19 add controller for app
+step 20 connect controller.js include in index.html
+step 21 dummy data with angular
+step 22 array in angularjs from client means contrller
+step 23 array in angularjs from server using node.js
+step 24 nosql database download mongodb windows 64-bit -> C folder custom and install default path c:data/db create
+step 25 run mongodb
+step 26 initial data in mongodb
+step 27 npm to install mongojs
+step 28 require mongojs
+step 29 get data from mongodb from mongo
+step 30 index.html to post the data to db
+step 31 define and add contact
+step 32 send the data from the input boxes to server - body parser install
+step 33 add contact from client and insert to db using add contact
+step 34 Dynamically refresh contact in table
+step 35 add remove button to contact list
+step 36 design and test remove functionality for remove button
+step 37 send http delete request to server
+step 38 now delete the contact from mongodb db
+step 39 put request to modify the data edit and update
+step 40 define the edit function
+step 41 update function in the controller
+step 42 
+
+
+
+
+
+

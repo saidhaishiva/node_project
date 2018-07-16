@@ -1,0 +1,18 @@
+var myApp = angular.module('ngApp', []);
+ myApp.controller('AppCtrl', AppCtrl);
+
+ function AppCtrl($scope, $http) {
+	//console.log("Hai");
+	
+	 $http({
+      method: 'GET',
+      url: '/contactlist'
+   }).then(function (response){
+	  console.log("I got data i requested");
+		console.log(response.data);
+		$scope.contactlist = response.data;
+   },function (error){
+
+   });
+	
+ }
